@@ -6,4 +6,4 @@ You can kill zombie with bomb.
 Also there is one more mode - 60 seconds.
 Good luck and enjoy!
 
-![Screenshot](Pics/Screenshot.png)
+![Screenshot](blob/master/Pics/Screenshot.png)
